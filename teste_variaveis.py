@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 
+idade: int
+salario: float; altura: float
+genero: str
+nome: str
 
 idade = 20
 salario = 5800.5
